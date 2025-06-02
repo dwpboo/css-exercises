@@ -1,0 +1,20 @@
+.odd-numbers,
+.third{
+   background-color:lightpink;
+   font-family: veranda, "DejaVu Sans", sans-serif; 
+}
+
+.third{
+    font-size: 24px;
+}
+
+#second{
+    color: blue;
+    font-size: 36px;
+}
+
+#forth{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
